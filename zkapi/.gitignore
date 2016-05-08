@@ -1,0 +1,14 @@
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.swp
+*.log
+
+# IDE Files #
+.idea
+target
+
+*.iml
